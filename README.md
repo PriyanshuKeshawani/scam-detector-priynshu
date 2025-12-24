@@ -1,0 +1,2 @@
+# scam-detector-priynshu
+
