@@ -1,127 +1,128 @@
 # 🚨 ScamGuard AI  
 ### AI-Powered Internship & Job Scam Detection System
 
-ScamGuard AI is a web-based AI application designed to help students and fresh graduates identify **fake or suspicious internship and job offers** before applying.
+ScamGuard AI is a **web-based AI application** designed to help students and fresh graduates identify **fake or suspicious internship and job offers** before applying.
 
-It analyzes offer text using **Google Gemini AI** and provides an **explainable credibility score**, helping users make informed decisions and avoid scams.
+It analyzes offer text using **Google Gemini AI** and generates an **explainable credibility score**, helping users avoid scams and make informed career decisions.
+
+---
+
+## 🖼️ Project Preview
+
+### Homepage – Offer Input
+![Homepage](./assets/homepage.jpeg)
+
+### Text Analysis in Action
+![Text Analysis](./assets/text-input.jpeg)
+
+### Final Verdict & Risk Breakdown
+![Final Verdict](./assets/final-verdict.jpeg)
 
 ---
 
 ## 🔍 Problem Statement
 
-Students increasingly receive fake internship and job offers through platforms such as:
+Students frequently receive **fake internship and job offers** through:
 
 - Email  
 - WhatsApp  
 - Instagram  
 - Telegram  
 
-These offers often:
+These scams often:
 - Ask for **registration or training fees**
-- Create urgency using phrases like *“limited seats”* or *“apply immediately”*
-- Provide **vague job descriptions** or **unrealistic promises**
+- Create urgency (*“limited seats”, “apply immediately”*)
+- Use **vague job descriptions** or **unrealistic promises**
 
-As a result, students face:
+### ❌ Impact
 - Financial loss  
-- Data misuse  
+- Personal data misuse  
 - Wasted time and missed genuine opportunities  
 
-Existing platforms either focus on job listings or provide a simple **fake/real classification** without explaining *why* an offer is risky.
+Most existing platforms either:
+- Focus only on job listings, or  
+- Provide a **fake/real result without explanation**
 
 ---
 
 ## 💡 Solution Overview
 
-ScamGuard AI addresses this problem by providing a **simple, explainable, AI-driven analysis** of internship and job offer text.
+**ScamGuard AI** provides a **simple, explainable, AI-driven analysis** of job and internship offers.
 
-Users can paste any offer text into the application, and the system:
+Users paste any offer text, and the system:
 
-- Analyzes the content using **Google Gemini AI**
+- Analyzes content using **Google Gemini AI**
 - Detects scam-related language patterns
-- Generates a **credibility score (0–100)**
-- Provides a **clear explanation** of why an offer appears **Safe, Risky, or Scam-like**
+- Generates a **Credibility Score (0–100)**
+- Explains *why* an offer is **Safe, Risky, or Scam-like**
 
-The focus is on **prevention and awareness before applying**, not after damage occurs.
+> 🎯 Focus: **Prevention & awareness before damage happens**
 
 ---
 
 ## ⚙️ How It Works
 
-1. User opens the ScamGuard AI web application  
-2. User pastes internship or job offer text  
-3. User clicks the **Analyze** button  
-4. The system sends the text to **Google Gemini AI**  
-5. Gemini AI analyzes the text for scam indicators such as:
+1. User opens the ScamGuard AI web app  
+2. Pastes internship or job offer text  
+3. Clicks **Start Analysis**  
+4. Text is sent to **Google Gemini AI**  
+5. AI checks for:
    - Fee requests  
    - Urgency pressure  
-   - Vague or misleading promises  
-6. ScamGuard AI processes the AI response  
-7. The system displays:
-   - **Credibility Score (0–100)**
-   - **Risk Category** (Safe / Risky / Scam-like)
-   - **Human-readable explanation**
+   - Vague promises  
+   - Missing official details  
+6. System generates:
+   - Credibility Score  
+   - Risk Category  
+   - Explainable reasoning  
 
 ---
 
 ## ✨ Key Features
 
-- **AI-Powered Text Analysis**  
-  Uses Google Gemini AI for advanced natural language understanding.
-
-- **Explainable Credibility Score**  
-  Not just fake/real — users see *why* an offer is risky.
-
-- **Internship & Early-Career Focused**  
-  Designed specifically for student-related scams.
-
-- **Platform Independent**  
-  Works with text from emails and social media platforms.
-
-- **Fast & Simple User Experience**  
-  No login required, instant results.
+- 🔍 **AI-Powered Text Analysis (Google Gemini)**
+- 📊 **Credibility Score (0–100)**
+- 🧠 **Explainable AI Results**
+- 🎓 **Student & Internship Focused**
+- ⚡ **Fast, No Login Required**
+- 🌐 **Platform Independent** (Email, WhatsApp, Telegram, Instagram)
 
 ---
 
 ## 🧠 Google Technologies Used
 
-### Google Gemini API
-- Core AI engine for analyzing offer text  
-- Detects scam indicators and generates explanations  
+### 🔹 Google Gemini API
+- Core AI engine
+- Natural Language Understanding
+- Scam pattern detection
+- Explainable reasoning generation
 
-> **Note:** Authentication, databases, and backend automation are planned future enhancements and are **not part of the current MVP**.
+> Authentication, databases, and automation are planned **future enhancements** and are not part of the current MVP.
 
 ---
 
 ## 🏗️ Architecture Overview
 
+![Architecture Diagram](./assets/architecture.png)
 
-![Website work flow ](https://xwwbzea34fnfcto5.public.blob.vercel-storage.com/Offer%20Scam%20Detection%20API-2025-12-20-163957.png)
-
-
-- **Frontend Web Application**  
-  User interface for input and results  
-
-- **Google Gemini AI**  
-  Performs language analysis and reasoning  
-
-- **Risk Evaluation Logic**  
-  Generates credibility score and explanation  
-
-- **Result Display Layer**  
-  Presents insights clearly to the user  
+### Components
+- **Frontend Web Application** – User input and result display  
+- **Google Gemini AI** – Language analysis and reasoning  
+- **Risk Evaluation Logic** – Credibility scoring  
+- **Result Display Layer** – Clear insights for users  
 
 ---
 
 ## 🚀 Live Demo (MVP)
 
-🔗 **Live Application:**  
-https://scam-detector-rose.vercel.app/
+- 🌐 **Live Application:**  
+  https://scam-detector-rose.vercel.app/
 
-📹 **Demo Video:**  
-https://youtu.be/iPFlYQF5kw4?si=GmqS71jhPZ1OWQG7
+- 🎥 **Demo Video:**  
+  https://youtu.be/iPFlYQF5kw4?si=GmqS71jhPZ1OWQG7
 
-📄 **PPT:**
-[📥 Download File](https://drive.google.com/uc?export=download&id=1uIMB9YD3QrR9VOXvrk9tuHoe8GICK6DL)
+- 📄 **Presentation (PPT):**  
+  https://drive.google.com/uc?export=download&id=1uIMB9YD3QrR9VOXvrk9tuHoe8GICK6DL
 
 ---
 
@@ -129,17 +130,17 @@ https://youtu.be/iPFlYQF5kw4?si=GmqS71jhPZ1OWQG7
 
 - **Project Type:** Hackathon MVP  
 - **Hackathon:** TechSprint – Leveraging the Power of AI  
-- **Team Submission:** Single team, single project  
-- **Repository Created:** After December 8, 2025 (as per rules)
+- **Problem Statement:** Fake Internship Detection & Prevention  
+- **Repository Created:** As per hackathon rules  
 
 ---
 
 ## 👥 Team Members
 
 - **Akash Lodhi** – Team Leader  
-- **Pooja Maurya**  -  PPT and Video 
-- **Priyanshu Kesharwani** - Backend 
-- **Sachin Lodhi** - Frontend
+- **Pooja Maurya** – PPT & Video  
+- **Priyanshu Kesharwani** – Backend  
+- **Sachin Lodhi** – Frontend  
 
 ---
 
@@ -151,3 +152,11 @@ https://youtu.be/iPFlYQF5kw4?si=GmqS71jhPZ1OWQG7
 - Improved risk scoring logic  
 - Browser extension support  
 
+---
+
+## ⭐ Why ScamGuard AI?
+
+ScamGuard AI doesn’t just label offers as **fake or real** —  
+it explains **why** an offer may be risky.
+
+> *Built for students. Powered by AI. Focused on prevention.*
