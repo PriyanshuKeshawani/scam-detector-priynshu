@@ -114,8 +114,10 @@ The focus is on **prevention and awareness before applying**, not after damage o
 https://scam-detector-rose.vercel.app/
 
 📹 **Demo Video:**  
-🎥 3-Minute Demo Video  
 https://youtu.be/iPFlYQF5kw4?si=GmqS71jhPZ1OWQG7
+
+📄 **PPT:**
+[📥 Download File](https://drive.google.com/uc?export=download&id=1uIMB9YD3QrR9VOXvrk9tuHoe8GICK6DL)
 
 ---
 
@@ -133,7 +135,7 @@ https://youtu.be/iPFlYQF5kw4?si=GmqS71jhPZ1OWQG7
 - **Akash Lodhi** – Team Leader  
 - **Pooja Maurya**  -  PPT and Video 
 - **Priyanshu Kesharwani** - Backend 
-- **Sachin Lodhi** - Frountend
+- **Sachin Lodhi** - Frontend
 
 ---
 
