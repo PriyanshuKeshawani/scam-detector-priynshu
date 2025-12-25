@@ -97,8 +97,7 @@ The focus is on **prevention and awareness before applying**, not after damage o
 
 <p align="center">
   <img src="https://xwwbzea34fnfcto5.public.blob.vercel-storage.com/Offer%20Scam%20Detection%20API-2025-12-20-163957.png" 
-       alt="Offer Scam Detection API" 
-       width="800">
+       alt="Offer Scam Detection API" >
 </p>
 
 
