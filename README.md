@@ -95,8 +95,7 @@ The focus is on **prevention and awareness before applying**, not after damage o
 ## 🏗️ Architecture Overview
 
 
-[Website work flow ](https://xwwbzea34fnfcto5.public.blob.vercel-storage.com/Offer%20Scam%20Detection%20API-2025-12-20-163957.png)
-
+![Website work flow ](https://xwwbzea34fnfcto5.public.blob.vercel-storage.com/Offer%20Scam%20Detection%20API-2025-12-20-163957.png)
 
 
 - **Frontend Web Application**  
