@@ -115,7 +115,7 @@ https://scam-detector-rose.vercel.app/
 
 📹 **Demo Video:**  
 🎥 3-Minute Demo Video  
-*(Add your video link here)*
+https://youtu.be/iPFlYQF5kw4?si=GmqS71jhPZ1OWQG7
 
 ---
 
@@ -131,9 +131,9 @@ https://scam-detector-rose.vercel.app/
 ## 👥 Team Members
 
 - **Akash Lodhi** – Team Leader  
-- **Pooja Maurya**  
-- **Priyanshu Kesharwani**  
-- **Sachin Lodhi**
+- **Pooja Maurya**  -  PPT and Video 
+- **Priyanshu Kesharwani** - Backend 
+- **Sachin Lodhi** - Frountend
 
 ---
 
@@ -145,8 +145,3 @@ https://scam-detector-rose.vercel.app/
 - Improved risk scoring logic  
 - Browser extension support  
 
----
-
-## 📝 License
-
-This project is developed as part of a **hackathon submission** and is intended for **educational and demonstration purposes only**.
