@@ -103,7 +103,7 @@ Users paste any offer text, and the system:
 
 ## 🏗️ Architecture Overview
 
-![Architecture Diagram](./assets/architecture.png)
+![Architecture Diagram](./assets/architechure.png)
 
 ### Components
 - **Frontend Web Application** – User input and result display  
